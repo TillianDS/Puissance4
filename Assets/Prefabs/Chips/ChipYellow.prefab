@@ -8,6 +8,22 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: -7585343417538590313, guid: 9587cf50c207d9e4fa26c1eb17271bda, type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: -5340133100898405111, guid: c64aa395c8eaf4f46ac9152638487f1a, type: 3}
+    - target: {fileID: -5962845790065531344, guid: 9587cf50c207d9e4fa26c1eb17271bda, type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: -5340133100898405111, guid: c64aa395c8eaf4f46ac9152638487f1a, type: 3}
+    - target: {fileID: -5962845790065531344, guid: 9587cf50c207d9e4fa26c1eb17271bda, type: 3}
+      propertyPath: m_Material
+      value: 
+      objectReference: {fileID: 13400000, guid: f99922c2494df4b56bc35f513c1461ba, type: 2}
+    - target: {fileID: -2463987399864320469, guid: 9587cf50c207d9e4fa26c1eb17271bda, type: 3}
+      propertyPath: m_CollisionDetection
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2177269031866947118, guid: 9587cf50c207d9e4fa26c1eb17271bda, type: 3}
       propertyPath: m_Name
       value: ChipYellow
